@@ -1,0 +1,10 @@
+<!ELEMENT TalonMasina (Marca, Descriere, Nrinmatric, DataInmatriculare, Proprietar, Combustibil, MasaMaxima, Culoare, NumarLocuri)>
+<!ELEMENT Marca (#PCDATA)>
+<!ELEMENT Descriere (#PCDATA)>
+<!ELEMENT Nrinmatric (#PCDATA)>
+<!ELEMENT DataInmatriculare (#PCDATA)>
+<!ELEMENT Proprietar (#PCDATA)>
+<!ELEMENT Combustibil (#PCDATA)>
+<!ELEMENT MasaMaxima (#PCDATA)>
+<!ELEMENT Culoare (#PCDATA)>
+<!ELEMENT Locuri (#PCDATA)>

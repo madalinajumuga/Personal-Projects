@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE TalonMasina SYSTEM "TalonMasina.dtd" >
+<TalonMasina xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="TalonMasina.xsd" >
+	<Marca>BMW</Marca>
+	<Descriere>Seria 1</Descriere>
+	<Nrinmatric>DJ20MDJ</Nrinmatric>
+	<DataInmatriculare>17-3-2020</DataInmatriculare>
+	<Proprietar>Madalina Jumuga</Proprietar>
+	<Combustibil>Motorina</Combustibil>
+	<MasaMaxima>2300</MasaMaxima>
+	<Culoare>Negru</Culoare>
+	<Locuri>4</Locuri>
+</TalonMasina>

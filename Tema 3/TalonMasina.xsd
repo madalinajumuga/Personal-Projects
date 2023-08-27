@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" >
+	<xs:element name="TalonMasina">
+		<xs:complexType>
+			<xs:sequence>
+			<xs:element name="Marca" type="xs:string"/>
+			<xs:element name="Descriere" type="xs:string"/>
+			<xs:element name="Nrinmatric" type="xs:string"/>
+			<xs:element name="DataInmatriculare" type="xs:string"/>
+			<xs:element name="Proprietar" type="xs:string"/>
+			<xs:element name="Combustibil" type="xs:string"/>
+			<xs:element name="MasaMaxima" type="xs:integer"/>
+			<xs:element name="Culoare" type="xs:string"/>
+			<xs:element name="Locuri" type="xs:integer"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
